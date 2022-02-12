@@ -2,7 +2,7 @@
 #include <time.h>
 #include <stdio.h>
 /**
- * main - This program will assign random number variable n each time executed
+ * main - This program will, you can find the source code. 
  * Return: void
  */
 int main(void)
