@@ -1,4 +1,4 @@
-#include "holberton.h"
+#include "studio.h"
 /**
  * main - Entry point
  *
