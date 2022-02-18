@@ -2,11 +2,11 @@
 /*
  */void print_alphabet_x10(void)
 {
-	int x, p;
-	for (p = 0; p < 10; p++)
+	char m, a;
+	for (m = 0; m <= a; m++)
 	{
-		for (x = 'a'; x <= 'z'; x++)
-			_putchar(x);
-		_puthcar('\n');
+		for (a = 97; a <= 122; a++)
+			_putchar (m);
+		_putchar('n');
 	}
 }
