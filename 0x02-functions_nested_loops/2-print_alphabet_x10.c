@@ -4,10 +4,12 @@
 {
 	char m, a;
 
-	for (m = 0; m <= a; m++)
+	for (m = 0; m <= 9; m++)
 	{
 		for (a = 97; a <= 122; a++)
-			_putchar (m);
-		_putchar('n');
+		{
+			_putchar (a);
+		}
+		_putchar('\n');
 	}
 }
